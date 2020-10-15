@@ -1,3 +1,3 @@
 # PROG-Files
 
-If you find any errors let me know!
+My solution to some of PROG's exams
